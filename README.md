@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Obesifix-Bangkit-2023">
-    <img src="https://drive.google.com/file/d/1-lBGccFRgYalrJQMaeYGUrEdwA7RTWv6/view?usp=sharing" width='250dp' alt="Logo" >
+    <img src="![Uploading ishara.png…]()" width='250dp' alt="Logo" >
   </a>
 
   <h1 align="center">ISHARA</h1>
