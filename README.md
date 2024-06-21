@@ -5,7 +5,7 @@
     <img src="https://drive.google.com/file/d/1-lBGccFRgYalrJQMaeYGUrEdwA7RTWv6/view?usp=sharing" width='250dp' alt="Logo" >
   </a>
 
-  <h1 align="center">Obesifix</h1>
+  <h1 align="center">ISHARA</h1>
   <h2 align="center">
   An application that can help you learn Indonesian Sign Language (BISINDO) with fun and interactive method </h2>
   
