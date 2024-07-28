@@ -37,3 +37,9 @@
 The ISHARA app is a new milestone in our efforts to provide interactive educational resources to expand the understanding and skills of using Indonesian Sign Language (BISINDO). Given the limited participation and awareness of BISINDO, this project was born in response to the urgent need to expand inclusion and awareness of the importance of this language among the community. The aim of this project is to answer the question of how to create interactive and flexible educational resources to expand understanding and skills in the use of BISINDO.
 
 By presenting a series of challenging and relevant levels, we aim to provide an immersive learning experience in Indonesian Sign Language (BISINDO) to users from diverse backgrounds. Our team is committed to eliminating stigma, isolation and discrimination against the deaf and speech-impaired community by closing the gap in access and understanding of BISINDO. We believe that by providing interactive and accessible educational resources, we can contribute to strengthening the integration, understanding and use of Indonesian Sign Language across Indonesia. The ISHARA app is the first step in a long journey towards an inclusive society and understanding Indonesia's cultural diversity.
+
+# App Demo
+https://github.com/user-attachments/assets/a1b6a241-e9f9-4465-9e48-902aa06f787c
+
+# ishara.apk
+https://drive.google.com/file/d/146nvUMXO5_azP9m-vH7VSNTbLljqT-up/view?usp=sharing 
