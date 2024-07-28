@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Obesifix-Bangkit-2023">
+  <a href="[https://github.com/Obesifix-Bangkit-2023](https://github.com/ishara-bangkit-capstone-project)">
     <img src="ishara.png" width='250dp' alt="Logo" >
   </a>
 
